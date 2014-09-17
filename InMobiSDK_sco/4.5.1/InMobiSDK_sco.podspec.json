@@ -40,7 +40,7 @@
   ],
   "xcconfig": {
     "OTHER_LDFLAGS": "-ObjC",
-    "LIBRARY_SEARCH_PATHS": "${PODS_ROOT}/InMobiSDK/InMobi-iOS-SDK-4.5.1/Libs"
+    "LIBRARY_SEARCH_PATHS": "${PODS_ROOT}/InMobiSDK_sco/InMobi-iOS-SDK-4.5.1/Libs"
   },
   "requires_arc": false
 }
